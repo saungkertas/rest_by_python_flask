@@ -2,14 +2,12 @@
 non/flask_uploader
 ==================
 
-
-Add a short description here!
-
+This project is to create file uploader using flask
 
 Description
 ===========
 
-A longer description of your project goes here...
+This project is to create file uploader using flask then will be integrated with wrapper generator.
 
 
 Note
